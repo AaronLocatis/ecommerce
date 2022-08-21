@@ -20,7 +20,8 @@ const HeroBanner = () => {
                     </div>
                 </div>
             </div>
-            )
+        </div>
+    )
 }
 
-            export defualt HeroBanner
+export default HeroBanner
