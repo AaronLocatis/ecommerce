@@ -11,7 +11,7 @@ const Navbar = () => {
             <button type="button"
                 className="cart-icon" onClick="">
                 <AiOutlineShopping />
-                <span classNam="cart-item-qty"></span>
+                <span className="cart-item-qty"></span>
             </button>
         </div>
     )
