@@ -714,6 +714,15 @@ span.text-red {
   margin-top: 10px;
 }
 
+.footer-banner-image {
+  width: 420px;
+  left: 35%;
+  top: 4%;
+  height: 420px;
+
+
+}
+
 @media screen and (max-width:800px) {
   .hero-banner-container {
     height: 560px;
@@ -731,10 +740,7 @@ span.text-red {
     margin-top: 80px;
   }
 
-  .footer-banner-image {
-    width: 20px;
-    height: 20px;
-  }
+
 
   .banner-desc .left h3 {
     font-weight: 900;
