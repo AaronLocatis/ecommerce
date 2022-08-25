@@ -109,6 +109,7 @@ export const StateContext = ({ children }) => {
         }
     }
 
+
     const incQty = () => {
         setQty((prevQty) => prevQty + 1);
     }
