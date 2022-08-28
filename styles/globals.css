@@ -160,7 +160,7 @@ span.text-red {
 
 }
 
-.hero-banner-container .beats-solo {
+.hero-banner-container .Pioneer-A-series {
   font-size: 20px;
 }
 
@@ -280,7 +280,7 @@ span.text-red {
   margin: 18px;
 }
 
-.-image {
+.footer-banner-image {
   position: absolute;
   /* top: -35%;
   left: 8%; */
@@ -715,10 +715,10 @@ span.text-red {
 }
 
 .footer-banner-image {
-  width: 420px;
+  width: 400px;
   left: 35%;
   top: 4%;
-  height: 40px;
+  height: 400px;
 
 
 }
