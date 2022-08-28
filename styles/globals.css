@@ -280,7 +280,7 @@ span.text-red {
   margin: 18px;
 }
 
-.footer-banner-image {
+.-image {
   position: absolute;
   /* top: -35%;
   left: 8%; */
@@ -718,7 +718,7 @@ span.text-red {
   width: 420px;
   left: 35%;
   top: 4%;
-  height: 420px;
+  height: 40px;
 
 
 }
