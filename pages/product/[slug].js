@@ -16,6 +16,8 @@ const ProductDetails = ({ product, products }) => {
         setShowCart(true);
     }
 
+    console.log(product);
+
     return (
         <div>
             <div className="product-detail-container">
@@ -118,4 +120,6 @@ export const getStaticProps = async ({ params: { slug } }) => {
 }
 
 export default ProductDetails
+
+
 
